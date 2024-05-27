@@ -118,6 +118,7 @@ export default {
   nno: "nn",
   nob: "nb",
   nor: "no",
+  nso: "nso",
   nya: "ny",
   oci: "oc",
   oji: "oj",
